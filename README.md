@@ -1,2 +1,2 @@
 # invisible_Cloak
-red colour will be invicible
+given ccolour will be invicible
